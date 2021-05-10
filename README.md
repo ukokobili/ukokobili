@@ -9,6 +9,7 @@ Skills: Python / SQL / BigQuery / Tableau / Power BI / Excel
 - 🤔 I’m looking for new job opportunities 
 - 📫 How to reach me: ukokobili.jacob@gmail.com 
 - ⚡ Fun fact: I am currently learning Chinese Mandarin. 你好!😄 
+- 
 
 [![Linkedin Badge](https://img.shields.io/badge/-jacobukokobili-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacobukokobili/)](https://www.linkedin.com/in/jacobukokobili/) [![Github Badge](https://img.shields.io/badge/-ukokobili-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ukokobili/)](https://www.github.com/ukokobili/) [![Twitter Badge](https://img.shields.io/badge/-jacobukokobili-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/jacobukokobili/)](https://www.twitter.com/jacobukokobili/) 
 
@@ -17,7 +18,9 @@ Skills: Python / SQL / BigQuery / Tableau / Power BI / Excel
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ukokobili)  
 
+<p align=left> <img src=https://komarev.com/ghpvc/?username=ukokobili alt=ukokobili /> </p>
+
 ![Profile views](https://gpvc.arturio.dev/ukokobili)  
 
 You can view my resume <a href='linkedin.com/in/jacob-ukokobili-62361164/ ' target=_blank><u>here</u>.</a></p>
-<p align=left> <img src=https://komarev.com/ghpvc/?username=ukokobili alt=ukokobili /> </p>
+
