@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Jacob
-#### I am GitHub Readme Generator's creator
 
 I am on a journey to becoming a data scientist. I love to unravel trends in data, visualize and use data to tell amazing stories! But the most satisfying part of this journey is sharing my learnings, from the challenges that I face, with the community to make the world a better place!
 
@@ -21,3 +20,5 @@ Skills: Python / SQL / BigQuery / Tableau / Power BI / Excel
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ukokobili)  
 
 ![Profile views](https://gpvc.arturio.dev/ukokobili)  
+
+You can view my resume <a href='linkedin.com/in/jacob-ukokobili-62361164/ ' target=_blank><u>here</u>.</a></p>
