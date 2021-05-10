@@ -4,9 +4,9 @@ I am on a journey to becoming a data scientist. I love to unravel trends in data
 
 Skills: Python / SQL / BigQuery / Tableau / Power BI / Excel 
 
-- 🔭 I’m currently working on Exploratory Data Analysis on COVID-19 Vaccination Globally 
+- 🔭 I’m currently working on Exploratory Data Analysis - COVID-19 Vaccination Globally 
 - 🌱 I’m currently learning Advanced SQL 
-- 🤔 I’m looking for help with new job opportunities 
+- 🤔 I’m looking for new job opportunities 
 - 📫 How to reach me: ukokobili.jacob@gmail.com 
 - ⚡ Fun fact: I am currently learning Chinese Mandarin. 你好!😄 
 
