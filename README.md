@@ -18,5 +18,7 @@ Skills: Python / SQL / BigQuery / Tableau / Power BI / Excel
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ukokobili) 
 
+![Profile views](https://gpvc.arturio.dev/ukokobili) 
+
  
 
