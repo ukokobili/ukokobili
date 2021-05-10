@@ -16,9 +16,7 @@ Skills: Python / SQL / BigQuery / Tableau / Power BI / Excel
 [![Github stats](https://github-readme-stats.vercel.app/api?username=ukokobili&show_icons=true&include_all_commits=true)](https://github.com/ukokobili/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ukokobili&layout=compact)](https://github.com/ukokobili/github-readme-stats) 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ukokobili)  
-
-<p align=left> <img src=https://komarev.com/ghpvc/?username=ukokobili alt=ukokobili /> </p>
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ukokobili) 
 
 ![Profile views](https://gpvc.arturio.dev/ukokobili)  
 
