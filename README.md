@@ -2,7 +2,7 @@
 
 I am on a journey to becoming a data scientist. I love to unravel trends in data, visualize and use data to tell amazing stories! But the most satisfying part of this journey is sharing my learnings, from the challenges that I face, with the community to make the world a better place!
 
-Skills: Python / SQL / BigQuery / Tableau / Power BI / Excel 
+Skills: Python / R / SQL / BigQuery / Tableau / Power BI / Excel 
 
 - 🔭 I’m currently working on Exploratory Data Analysis - COVID-19 Vaccination Globally 
 - 🌱 I’m currently learning Advanced SQL 
