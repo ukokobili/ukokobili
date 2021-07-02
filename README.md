@@ -7,7 +7,7 @@ Skills: Python / SQL / BigQuery / Tableau / Power BI / Excel
 - 🔭 I’m currently working on Exploratory Data Analysis - COVID-19 Vaccination Globally 
 - 🌱 I’m currently learning Advanced SQL 
 - 🤔 I’m looking for new job opportunities 
-- 📫 How to reach me: ukokobili.jacob@gmail.com 
+- 📫 How to reach me: hello@ukokobili.xyz
 - ⚡ Fun fact: I am currently learning Chinese Mandarin. 你好!😄 
 - 📋 You can view my resume <a href='linkedin.com/in/jacob-ukokobili-62361164/ ' target=_blank><u>here</u>.</a></p>
 
