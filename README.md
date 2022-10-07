@@ -4,7 +4,7 @@ I am a data analyst/engineer. I love the fields of data analytics, data engineer
 
 Skills: Python / R / SQL / BigQuery / Airflow / dbt / Docker / PySpark / Holistics / Metabase / Tableau / GCP 
 
-- 🔭 I’m currently working on Data Engineering Project - Extracting Data From Rest API in Postgresql using Python & Airflow
+- 🔭 I’m currently working on Data Engineering Project - Extracting Data From Rest API into Postgresql using Python Script & Airflow
 - 🌱 I’m currently learning Machine Learning 
 - 🤔 I’m looking for new job opportunities 
 - 📫 How to reach me: hello@ukokobili.xyz
