@@ -9,7 +9,7 @@ Skills: Python / R / SQL / BigQuery / Airflow / dbt / Docker / PySpark / Holisti
 - 🤔 I’m looking for new job opportunities 
 - 📫 How to reach me: hello@ukokobili.xyz
 - ⚡ Fun fact: I am learning Chinese Mandarin. 你好!😄 
-- 📋 You can view my resume <a href='drive.google.com/drive/u/0/folders/10564LWWex1ShpD6XcWj-DIaAvOfImibi' target=_blank><u>here</u>.</a></p>
+- 📋 You can view my resume <a href='https://drive.google.com/drive/u/0/folders/10564LWWex1ShpD6XcWj-DIaAvOfImibi' target=_blank><u>here</u>.</a></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-jacobukokobili-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacobukokobili/)](https://www.linkedin.com/in/jacobukokobili/) [![Github Badge](https://img.shields.io/badge/-ukokobili-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ukokobili/)](https://www.github.com/ukokobili/) [![Twitter Badge](https://img.shields.io/badge/-jacobukokobili-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/jacobukokobili/)](https://www.twitter.com/jacobukokobili/) 
 
