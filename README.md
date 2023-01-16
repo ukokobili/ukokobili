@@ -2,7 +2,7 @@
 
 I am a data analyst/engineer. I love the fields of data analytics, data engineering, analytical engineering and machine learning from designing, developing, and deploying data-driven solutions! But the most satisfying part of this journey is sharing my learnings, from the challenges that I face, with the community to make the world a better place!
 
-Skills: Python / R / SQL / BigQuery / Airflow / dbt / Docker / PySpark / Holistics / Metabase / Tableau / GCP 
+Skills: Python / R / SQL / BigQuery / Airflow / dbt / Docker / PySpark / Holistics / Metabase / Tableau / GCP / Terraform / Pig Latin / RedShift
 
 - 🔭 I’m currently working on Data Engineering Project - Extracting Data From Rest API into Postgresql using Python Script & Airflow
 - 🌱 I’m currently learning Machine Learning 
